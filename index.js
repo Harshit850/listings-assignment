@@ -2,7 +2,7 @@ import axios from "axios";
 import moment from "moment";
 import fs from "fs";
 
-import { GET_LISTINGS } from "./constants";
+import { GET_LISTINGS } from "./constants.js";
 
 /**
  * @author Harshit Kumar
